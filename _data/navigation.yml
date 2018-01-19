@@ -2,6 +2,8 @@
 main:
   - title: "搜索"
     url: /search
+  - title: "GameOfLife"
+    url: /gameoflife
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
